@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/randomgenerator-API.git"
   },
   "keywords": [
-    "random generator"," random data generator"," random generator api"," random data generator api"," random generator tool"," random data generator tool"," random generator software"," random data generator software"," random generator service"," random data generator service"," random generator library"," random data generator library"," random generator sdk"," random data generator sdk"," random generator code"," random data generator code"," random generator script"," random data generator script"," random generator program"," random data generator program"," random generator application"," random data generator application"," random generator app"," random data generator app"," random generator utility"," random data generator utility"," random generator helper"," random data generator helper"," random generator helper tool"," random data generator helper tool"," random generator helper software"," random data generator helper software"," random generator helper service"," random data generator helper service"," random generator helper library"," random data generator helper library"," random generator helper sdk"," random data generator helper sdk"," random generator helper code"," random data generator helper code"," random generator helper script"," random data generator helper script"," random generator helper program"," random data generator helper program"," random generator helper application"," random data generator helper application"," random generator helper app"," random data generator helper app"," random generator helper utility"," random data generator helper utility"," random generator helper"
+    "random generator","random data generator","random generator api","random data generator api","random generator tool"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
