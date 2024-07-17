@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/randomgenerator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Random Generator is a simple tool for generating random data. It returns random data such as numbers, strings, and more.",
   "main": "index.js",
   "scripts": {
